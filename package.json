@@ -1,0 +1,28 @@
+{
+  "name": "bit-icons",
+  "version": "0.0.0",
+  "description": "Feature-rich CSS-classified SVG icons of all littleBits bits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/littlebits/bit-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "littlebits",
+    "bit-icons",
+    "svg",
+    "vector",
+    "graphic",
+    "electric"
+  ],
+  "author": "Jason Kuhrt <jasonkuhrt@me.com>",
+  "license": "GPL-V3",
+  "bugs": {
+    "url": "https://github.com/littlebits/bit-icons/issues"
+  },
+  "homepage": "https://github.com/littlebits/bit-icons"
+}

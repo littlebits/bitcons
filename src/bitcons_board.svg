@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="267.7 0 247.7 98.1" style="enable-background:new 267.7 0 247.7 98.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+</style>
+<symbol  id="board" viewBox="-123.9 -49.1 247.7 98.1">
+	<polygon id="board-body_2_" class="st0" points="-83.2,49 83,49 83,-49.1 -83.2,-49.1 	"/>
+	<polygon id="board-io_board-io-out_2_" class="st0" points="83,49 123.8,49 123.8,-49.1 83,-49.1 	"/>
+	<polygon id="board-io_board-io-in_2_" class="st0" points="-123.9,49 -83.1,49 -83.1,-49.1 -123.9,-49.1 	"/>
+</symbol>
+<g id="cloudbit">
+</g>
+<g id="board_2_">
+	
+		<use xlink:href="#board"  width="247.7" height="98.1" id="XMLID_1_" x="-123.9" y="-49.1" transform="matrix(1 0 0 -1 391.6293 48.981)" style="overflow:visible;"/>
+</g>
+</svg>
