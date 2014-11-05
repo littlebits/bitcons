@@ -4,6 +4,11 @@ Feature-rich CSS-classified SVG icons of all littleBits bits
 
 
 ### Prior Art
+
+A good example of the technique deconstructed as a single example:
+- http://codepen.io/pukhalski/pen/hszLl
+_ http://codepen.io/pukhalski/pen/hFLDG
+
 We are influenced by [iconic](https://useiconic.com/open); Here are some observations we've made:  
 
 - All icons have fixed `viewBox`es: 16x16 / 32x32 / 128x128. This choice has tradeoffs: http://css-tricks.com/svg-artboard-sizing
