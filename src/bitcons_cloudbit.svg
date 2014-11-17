@@ -1,32 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 247.7 98.1" style="enable-background:new 0 0 247.7 98.1;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-</style>
-<symbol  id="board" viewBox="-123.9 -49.1 247.7 98.1">
-	<polygon id="board-body_2_" class="st0" points="-83.2,49 83,49 83,-49.1 -83.2,-49.1 	"/>
-	<polygon id="board-io_board-io-out_2_" class="st0" points="83,49 123.8,49 123.8,-49.1 83,-49.1 	"/>
-	<polygon id="board-io_board-io-in_2_" class="st0" points="-123.9,49 -83.1,49 -83.1,-49.1 -123.9,-49.1 	"/>
-</symbol>
-<g id="cloudbit">
-	<rect id="bit-cloud-sdc" x="162.3" y="53.9" class="st0" width="35.7" height="45.2"/>
-	
-		<use xlink:href="#board"  width="247.7" height="98.1" x="-123.9" y="-49.1" transform="matrix(1 0 0 -1 123.85 48.981)" style="overflow:visible;"/>
-	<rect id="bit-cloud-usb_1_" x="45.1" y="44.5" class="st0" width="42.9" height="51"/>
-	<rect id="bit-cloud-usb-tray" x="43.3" y="41.8" class="st0" width="47.2" height="45.1"/>
-	<rect id="bit-cloud-cpu" x="101.9" y="27.6" class="st0" width="35.7" height="32.7"/>
-	<rect id="bit-cloud-setup-button" x="172.2" y="45.6" class="st0" width="10.1" height="15.7"/>
-	<g id="resistors">
-		<rect x="161.9" y="74.7" class="st0" width="4.1" height="4.6"/>
-		<rect x="167.4" y="74.7" class="st0" width="4.1" height="4.6"/>
-		<rect x="173.2" y="74.7" class="st0" width="4.1" height="4.6"/>
-		<rect x="179.1" y="74.7" class="st0" width="4.1" height="4.6"/>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="197.6px"
+	 height="77.5px" viewBox="-7631.8 -7848.2 197.6 77.5" enable-background="new -7631.8 -7848.2 197.6 77.5" xml:space="preserve">
+<g id="cloudbit_1_">
+	<rect id="resistor" x="-7508.3" y="-7828.7" fill="none" width="9.1" height="12.9"/>
+	<g id="bit-cloud-light-bulb_1_">
+		<circle fill="none" cx="-7473.5" cy="-7831.1" r="2.7"/>
+		<line fill="none" x1="-7476" y1="-7831.1" x2="-7471" y2="-7831.1"/>
+		<line fill="none" x1="-7473.5" y1="-7828.5" x2="-7473.5" y2="-7833.5"/>
 	</g>
-	<rect id="bit-cloud-light-box" x="171.5" y="6.8" class="st0" width="6.8" height="10"/>
-	<circle id="bit-cloud-light-bulb" class="st0" cx="174.9" cy="11.8" r="1.9"/>
+	<rect id="bit-cloud-light-box_1_" x="-7477" y="-7834.4" fill="none" width="7" height="6.8"/>
+	<g id="resistors_1_">
+		<rect x="-7468.5" y="-7780.8" fill="none" width="2.3" height="4.6"/>
+		<rect x="-7473.7" y="-7780.8" fill="none" width="2.3" height="4.6"/>
+		<rect x="-7478.8" y="-7780.8" fill="none" width="2.3" height="4.6"/>
+		<rect x="-7484" y="-7780.8" fill="none" width="2.3" height="4.6"/>
+	</g>
+	<g id="bit-cloud-setup-button_1_">
+		<rect x="-7478" y="-7810" fill="none" width="9" height="18"/>
+		<rect x="-7475.8" y="-7805.7" fill="none" width="4.7" height="9.4"/>
+	</g>
+	<rect id="bit-cloud-cpu_1_" x="-7554.5" y="-7828.5" fill="none" width="40.5" height="40.5"/>
+	<rect id="bit-cloud-usb-tray_1_" x="-7609.5" y="-7843.7" fill="none" width="36" height="36"/>
+	<g id="bit-cloud-usb">
+		<rect x="-7607.2" y="-7839.8" fill="none" width="31.5" height="43.4"/>
+		<rect x="-7611.7" y="-7796.4" fill="none" width="40.5" height="18"/>
+		<polyline fill="none" points="-7596.6,-7825.6 -7597.6,-7811 -7597.7,-7809.9 -7602.5,-7809.9 -7603.6,-7825.6 		"/>
+		<polyline fill="none" points="-7579.3,-7825.6 -7580.4,-7811 -7580.5,-7809.9 -7585.2,-7809.9 -7586.4,-7825.6 		"/>
+		<line fill="none" x1="-7602.5" y1="-7810.6" x2="-7597.7" y2="-7810.6"/>
+		<line fill="none" x1="-7585.3" y1="-7810.6" x2="-7580.4" y2="-7810.6"/>
+	</g>
+	<path id="bit-cloud-sdc_1_" fill="none" d="M-7485.9-7812.4v39.2c0,1.4,1.2,2.6,2.8,2.6h24.2c1.5,0,2.8-1.2,2.8-2.6v-39.2
+		L-7485.9-7812.4z"/>
+	<g id="board">
+		
+			<use xlink:href="#bitsnap-left"  width="17.8" height="59.5" x="-8.9" y="-29.8" transform="matrix(1 0 0 -1 -7622.8828 -7810.6309)" overflow="visible"/>
+		
+			<use xlink:href="#bitsnap-right"  width="17.8" height="59.5" x="-8.9" y="-29.8" transform="matrix(1 0 0 -1 -7443.0767 -7810.6309)" overflow="visible"/>
+		
+			<use xlink:href="#board_3_"  width="162" height="74.3" x="-81" y="-37.2" transform="matrix(1 0 0 -1 -7532.9795 -7810.6304)" overflow="visible"/>
+	</g>
 </g>
-<g id="board_2_">
-</g>
+<symbol  id="bitsnap-left" viewBox="-8.9 -29.8 17.8 59.5">
+	<path fill="none" d="M4.7,29.8h-9V11.5c-0.3-0.2-0.5-0.7-0.5-1.2V-10c0-0.6,0.2-1,0.5-1.2v-18.5h9c2.3,0,4.2,1.9,4.2,4.2v51.1
+		C8.9,27.9,7,29.8,4.7,29.8z"/>
+	<path fill="none" d="M-4.8,9.6l-2.7-0.3c-0.8-0.1-1.4-0.8-1.4-1.6V2.6c0-0.8,0.6-1.5,1.4-1.5l2.7-0.2V9.6z"/>
+	<g id="connectors_2_">
+		<path fill="none" d="M-4.8,8.9c-0.5-0.1-0.8-0.5-0.8-1V6.7c0-0.5,0.4-0.9,0.8-1V8.9z"/>
+		<path fill="none" d="M-4.8,1.7c-0.5-0.1-0.8-0.5-0.8-1v-1.2c0-0.5,0.4-0.9,0.8-1V1.7z"/>
+		<path fill="none" d="M-4.8-5.5c-0.5-0.1-0.8-0.5-0.8-1v-1.2c0-0.5,0.4-0.9,0.8-1V-5.5z"/>
+	</g>
+</symbol>
+<symbol  id="bitsnap-right" viewBox="-8.9 -29.8 17.8 59.5">
+	<path fill="none" d="M-4.7-29.8h9v18.3c0.3,0.2,0.5,0.7,0.5,1.2V10c0,0.6-0.2,1-0.5,1.2v18.5h-9c-2.3,0-4.2-1.9-4.2-4.2v-51.1
+		C-8.9-27.9-7-29.8-4.7-29.8z"/>
+	<path fill="none" d="M4.8-9.6l2.7,0.3c0.8,0.1,1.4,0.8,1.4,1.6v5.1c0,0.8-0.6,1.5-1.4,1.5L4.8-0.9V-9.6z"/>
+</symbol>
+<symbol  id="board_3_" viewBox="-81 -37.2 162 74.3">
+	<polygon id="board_4_" fill="none" points="81,-37.2 -81,-37.2 -81,37.2 81,37.2 	"/>
+</symbol>
 </svg>
